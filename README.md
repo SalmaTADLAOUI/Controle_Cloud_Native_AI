@@ -7,6 +7,7 @@ This repository demonstrates a workflow for building, tracking, and deploying ma
 ## 1. Tracking Model Performance
 
 In this section, I implemented preprocessing for the data and trained multiple machine learning models, including logistic regression, decision tree, SVM, random forest, and LGBM. After thorough evaluation, the random forest model emerged as the best-performing model based on predefined criteria.
+<img width="925" alt="mlflow_dash" src="https://github.com/SalmaTADLAOUI/Controle_Cloud_Native_AI/assets/76519142/6138345d-6525-4007-8fdb-080f82c65477">
 
 
 ## 4. Saving Best Model and Preprocessing Transformations<a name="random forest"></a>
