@@ -16,6 +16,8 @@ Save the best model in ONNX format and its dedicated preprocessing transformatio
 ## 5. Creating a FastAPI REST API
 
 ![Machine Learning](fastAPI1.jpg)
+<img width="602" alt="image3" src="https://github.com/SalmaTADLAOUI/Cloud-Native-AI-ML/assets/76519142/b7676888-6210-4fe1-8915-409113aa4955">
+
 ![Machine Learning](fastAPI2.jpg)
 
 ## 6. Packaging Model as a Docker Container
