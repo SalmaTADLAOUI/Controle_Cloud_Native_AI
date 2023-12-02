@@ -15,20 +15,21 @@ Save the best model in ONNX format and its dedicated preprocessing transformatio
 
 ## 5. Creating a FastAPI REST API
 
-![Machine Learning](fastAPI1.jpg)
-<img width="602" alt="image3" src="https://github.com/SalmaTADLAOUI/Cloud-Native-AI-ML/assets/76519142/b7676888-6210-4fe1-8915-409113aa4955">
+<img width="325" alt="fastAPI1" src="https://github.com/SalmaTADLAOUI/Controle_Cloud_Native_AI/assets/76519142/2db3be15-e881-417e-b623-ee377b20655b">
+<img width="275" alt="fastAPI2" src="https://github.com/SalmaTADLAOUI/Controle_Cloud_Native_AI/assets/76519142/9f623ba3-a151-45ff-9931-8f0ad528eada">
 
-![Machine Learning](fastAPI2.jpg)
 
 ## 6. Packaging Model as a Docker Container
 
 I created a DockerFile to create a container in docker and requirements.txt contains the require packages
-![Machine Learning](docker1.jpg)
-![Machine Learning](docker2.jpg)
+<img width="635" alt="docker1" src="https://github.com/SalmaTADLAOUI/Controle_Cloud_Native_AI/assets/76519142/f66e48e8-b1b3-46e0-8a58-299bd24cb531">
+<img width="728" alt="docker2" src="https://github.com/SalmaTADLAOUI/Controle_Cloud_Native_AI/assets/76519142/8eb7019d-fccb-46ac-9c67-57cb7408050f">
+
+
 ## 7. Consuming APIs with Postman
 
 Test the deployed API endpoints using Postman. Send requests and verify the responses to ensure the proper functioning of the deployed model.
-![Machine Learning](postman.jpg)
-
+<img width="623" alt="postman" src="https://github.com/SalmaTADLAOUI/Controle_Cloud_Native_AI/assets/76519142/e4e4c0fc-9b91-4801-af85-2e543267880d">
 ## 8. Creating a Flask Application to consume the api
-![Machine Learning](flask.jpg)
+<img width="482" alt="flask" src="https://github.com/SalmaTADLAOUI/Controle_Cloud_Native_AI/assets/76519142/0018ae61-286e-4da4-b351-bd0adabcc679">
+
